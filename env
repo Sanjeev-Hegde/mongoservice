@@ -1,1 +1,1 @@
-Mondodb_Connection = 'mongodb://localhost/mongoservice'
+Mondodb_Connection = 'mongodb://ec2-52-42-219-72.us-west-2.compute.amazonaws.com/mongoservice'
