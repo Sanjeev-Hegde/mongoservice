@@ -29,3 +29,5 @@ process.on('SIGINT', function() {
 
 // SCHEMAS & MODELS
 require('./models/users.js');
+require('./models/accounts.js');
+require('./models/card_history.js');
